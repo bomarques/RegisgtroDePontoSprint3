@@ -1,1 +1,1 @@
-# ControlePontoSprint3
+Projeto hcm desenvolvido em grupo no programa de treinamento GoDev Senior, Nesta Sprint participei do grupo que desenvolveu o projeto registro de Ponto, e utilizamos conceitos importantes de SOLID, testes unitários e algumas técnicas de design Patterns. Também fizeram parte do projeto na sprint, Jônata Caetano, Leonardo F., Lorran P. Dos Santos e Lucas Nunes.
